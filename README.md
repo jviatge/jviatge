@@ -1,4 +1,4 @@
-# ()[https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476] Hey here ! Welcome to my page.
+# ![](https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476) Hey here ! Welcome to my page.
 
 ### 👨‍💻 About Me
 I'm Julien, a passionate coder with a heart that beats for solving complex problems. I believe that every line of code is like a thread that weaves into a tapestry of innovation.
